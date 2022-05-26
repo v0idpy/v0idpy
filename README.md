@@ -70,9 +70,9 @@
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+🌆 Daytime    2 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      11 commits     █████████████████████░░░░   84.62%
+🌙 Night      3 commits      ███████████████░░░░░░░░░░   60.0%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -80,8 +80,8 @@
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Thursday     11 commits     █████████████████████░░░░   84.62% 
+Wednesday    2 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Thursday     3 commits      ███████████████░░░░░░░░░░   60.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
@@ -94,6 +94,12 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Europe/Paris
 
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
@@ -103,7 +109,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/05/2022 23:44:56 UTC
+ Last Updated on 26/05/2022 00:05:14 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.

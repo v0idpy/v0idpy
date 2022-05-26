@@ -17,7 +17,7 @@
 * 🚀  In my free time, I enjoy watching anime, playing capture the flag on HackTheBox & spending time with family.
 * 🎉 Fun fact: I'm a huge fan of One Piece.
 
-<img align="center" alt="GIF" src="img/luffy.gif" width="850" height="500" />
+<img align="center" alt="GIF" src="img/luffy.gif" />
 
 ## ⚡ Technologies
 

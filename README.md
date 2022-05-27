@@ -95,21 +95,22 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 36 mins             █████████████████████░░░░   87.19% 
+YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+v0idpy                   42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    42 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/05/2022 18:53:45 UTC
+ Last Updated on 27/05/2022 18:52:04 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.

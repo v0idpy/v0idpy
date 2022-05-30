@@ -62,6 +62,7 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackthebox Pandora Writeup](https://v0idpy.github.io/posts/hackthebox-pandora-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -113,5 +113,5 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackthebox Pandora Writeup](https://v0idpy.github.io/posts/hackthebox-pandora-writeup/)
+- [HackTheBox Pandora Writeup](https://v0idpy.github.io/posts/hackthebox-pandora-writeup/)
 <!-- BLOG-POST-LIST:END -->

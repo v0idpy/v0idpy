@@ -61,11 +61,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-<!-- BLOG-POST-LIST:START -->
-- [Hackthebox Pandora Writeup](https://v0idpy.github.io/posts/hackthebox-pandora-writeup/)
-<!-- BLOG-POST-LIST:END -->
-
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -115,3 +110,7 @@ Linux                    42 mins             ███████████�
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+📕  Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
